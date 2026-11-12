@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leander-plumbing-solutions.9-s.org/sitemap.xml
